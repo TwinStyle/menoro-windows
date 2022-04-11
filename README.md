@@ -1,0 +1,5 @@
+# menoroMIne
+
+- LINUX
+
+-WINDOWS
