@@ -1,5 +1,4 @@
 # menoroMIne
 
-- LINUX
-
--WINDOWS
+- LINUX service
+- WINDOWS Service
