@@ -1,4 +1,4 @@
-# menoroMIne
+# menoro-Windows
 
 - WINDOWS Service
 https://nssm.cc/
